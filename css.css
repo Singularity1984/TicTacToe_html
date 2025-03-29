@@ -42,3 +42,11 @@
     padding: 100px;
     border: solid 1px black;
 }
+@media screen and (max-width:767px) {
+    .column{
+        max-width: 50px;
+        max-height: 50px;
+    
+        padding: 50px;
+    }
+}
